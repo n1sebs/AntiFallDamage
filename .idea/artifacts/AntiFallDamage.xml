@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntiFallDamage">
+    <output-path>$PROJECT_DIR$/out/artifacts/AntiFallDamage</output-path>
+    <root id="archive" name="AntiFallDamage.jar">
+      <element id="module-output" name="AntiFallDamage" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
